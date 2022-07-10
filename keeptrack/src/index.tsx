@@ -23,8 +23,8 @@ function Example() {
 
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <Example />
+    <App />
+    {/* <Example /> */}
   </React.StrictMode>
 );
 
